@@ -13,14 +13,14 @@ To get started with the Music Generator project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/music-generator.git
+   git clone https://github.com/SwelteringCity/Music-Gen.git
    ```
 
 2. Install the required dependencies. Make sure you have Python (version X.X.X) and the following libraries installed:
 
-   - Library 1
-   - Library 2
-   - Library 3
+   - Tensorflow
+   - pretty_midi
+   - Numpy
 
    You can install the dependencies using the following command:
 
